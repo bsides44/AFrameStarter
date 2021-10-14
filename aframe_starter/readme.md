@@ -1,0 +1,1 @@
+npm install -g live-server && live-server to serve locally
